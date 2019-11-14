@@ -45,3 +45,8 @@ Feature: The activity stream
     Then I should not see "Look at this dog"
     When I go to the liked stream page
     Then I should not see "Look at this dog"
+  
+  Scenario: Yihaa
+    Given I'm happy
+    When I want to say it
+    Then Yihaa
