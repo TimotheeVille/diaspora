@@ -50,3 +50,4 @@ Feature: The activity stream
     Given I'm happy
     When I want to say it
     Then Yihaa
+    And Yihou
