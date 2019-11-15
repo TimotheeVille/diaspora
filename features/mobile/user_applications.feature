@@ -20,4 +20,4 @@ Feature: managing authorized applications
     And I revoke the first authorization
     Then I should see 1 authorized applications
     And I revoke the first authorization
-    Then I should see 0 authorized
+    Then I should see 0 authorized application
