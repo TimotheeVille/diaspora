@@ -1,5 +1,5 @@
 @javascript @mobile
-Feature: managing authorized applications
+Feature: Managing authorized applications
   Background:
     Given following users exist:
       | username    | email                 |
