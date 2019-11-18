@@ -49,4 +49,4 @@ Feature: The activity stream
   Scenario: Yihaa
     Given I'm happy
     When I want to say it
-    Then Yihaa hou
+    Then Yihaa
