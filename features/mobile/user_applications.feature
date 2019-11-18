@@ -21,4 +21,4 @@ Feature: Managing authorized applications
     Then I should see 1 authorized applications
     And I revoke the first authorization
     Then I should see 0 authorized applications
-    And plop
+    And plopidou
