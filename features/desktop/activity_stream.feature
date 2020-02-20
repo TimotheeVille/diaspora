@@ -1,5 +1,6 @@
 @javascript
 Feature: The activity stream
+  A comment
   Background:
     Given following users exist:
       | username    | email             |
